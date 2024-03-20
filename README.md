@@ -82,37 +82,27 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### Occupational Insight:
 
-![5](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/11674e74-f43c-4a41-a23b-c57f86c4a211)
+![5](https://github.com/VemulapalliRakesh/Images_repo/blob/main/occupational_insight.png)
 
  * Salaried IT Employees represent a large portion of our customers (1294), showcasing a tech-centric demographic.
  * The diversity in occupations, including freelancers and business owners, presents an opportunity to tailor services for varied professional needs.
 
 #### Marital Status Overview:
 
-![6](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/dd8f3226-ed4e-472a-a08e-b44594b306d7)
+![6](https://github.com/VemulapalliRakesh/Images_repo/blob/main/marital_status_overview.png)
 
  * A significant majority of our customers are married (78.41%), emphasizing the importance of considering family-centric financial solutions.
  * Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
-#
-
-## Income Utilization & Spending Analysis  
- [🔁Home](#table-of-content)
-
-In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Power BI. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
-
-![Screenshot 2024-01-01 174050](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/71827241-ce42-49cd-a7a0-380143a5c138)
-
-#
 
 #### Average Income Utilization:
 
-![a1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/787df1ca-f219-4304-84d5-66ea1cb9f33e)
+![a1](https://github.com/VemulapalliRakesh/Images_repo/blob/main/average_income_utilisation.png)
 
 * Average Income Utilization stands at 42.82%
 
 #### Key Metrics:
 
-![a2](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/6955c9c1-cf28-4955-9492-a1ba909b4b5f)
+![a2](https://github.com/VemulapalliRakesh/Images_repo/blob/main/total%20income%20and%20total_spent.png)
 
  * Total Income in 6 months: $1240M
  * Total Spends in 6 months: $531M
@@ -179,19 +169,10 @@ Males exhibit a higher income utilization rate at 44.39%, compared to females at
 
 #### Income Utilization by Marital Status:
 
-![a12](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/32e2f3c2-03f9-4515-812e-0c99ff2bd18b)
+![a12](https://github.com/VemulapalliRakesh/Images_repo/blob/main/income%20utilisation%20by%20marital_status.png)
 
 Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
-#
 
-## Table Grid View Page:  
- [🔁Home](#table-of-content)
-
-![3 page](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/5e5baf0d-0dc8-47c1-a153-3d2ed1fa7116)
-
-In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
-
-#
 ## Recomendation for Next Credit Card
 [🔁Home](#table-of-content)
 
