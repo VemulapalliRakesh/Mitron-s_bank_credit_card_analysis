@@ -52,7 +52,7 @@ For demographic classification, I have conducted a thorough customer demographic
 
 #### Total Customers:
 
-![1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/f7badf16-9235-4927-8569-7ea15580897a)
+![1](https://github.com/VemulapalliRakesh/Images_repo/blob/main/challenge%238%20images/total_Customers.png)
 
 The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
 
@@ -75,7 +75,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### City-wise Distribution:
 
-![4](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/962b9a4b-dad7-4cdb-a4c2-e865fd906d3d)
+![4](https://github.com/VemulapalliRakesh/Images_repo/blob/main/City_gender_distribution.png)
 
  * Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
  * Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
@@ -119,21 +119,21 @@ In pursuit of illuminating critical insights into customer spending patterns and
  
 #### Income, Spend, Utilization by Age Group:
 
-![a3](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/b8130395-edb6-4ec1-803d-3b5ab8954071)
+![a3](https://github.com/VemulapalliRakesh/Images_repo/blob/main/income_utilisation%20by%20age_group.png)
 
  * Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
  * Second-highest is the 35-45 age group with a utilization rate of 46.52%.
 
 #### Total Spends by Category:
 
-![a4](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/ad937819-67b7-4136-bf61-487cd950d1d6)
+![a4](https://github.com/VemulapalliRakesh/Images_repo/blob/main/total_spent_by%20category.png)
 
  * Highest spending in bills category ($105M) with an average utilization of 46%.
  * Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
 
 #### Income, Spend, Utilization by Occupation:
 
-![a5](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/faabef21-37e4-456a-83e3-7c816d9b9eb0)
+![a5](https://github.com/VemulapalliRakesh/Images_repo/blob/main/income%20spent%20by%20occupation.png)
 
  * Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
  * Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
