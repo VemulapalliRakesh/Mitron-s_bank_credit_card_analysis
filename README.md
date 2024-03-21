@@ -2,7 +2,7 @@
 
 ## Created by- Vemulapalli rakesh @ Data Analyst [Linkeldin Profile](https://www.linkedin.com/in/vemulapallisairakesh/)
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitrons-bank-credit-card-analysis)
-### Presentation ppt at Canva [Link](https://www.canva.com/design/DAF4cPSsnUU/14YqtWQOic0R7VCEVx8T6w/edit?utm_content=DAF4cPSsnUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Presentation ppt a [Link](https://docs.google.com/presentation/d/1CQhE4CRp4Ph3mnh8fu8hnu-4CTo7TH6y/edit?usp=sharing&ouid=102091313426027447475&rtpof=true&sd=true)
 
 #
 ## Table of Content
@@ -11,11 +11,7 @@
 3. [Problem Statment](#problem-statment)
 4. [Demographic Classification](#demographic-classification)
 5. [Income Utilization & Spending Analysis](#income-utilization--spending-analysis)
-6. [Table Grid View Page](#table-grid-view-page)
-7. [Recomendation](#recomendation-for-next-credit-card)
-8. [Footer](#dont-forget-to-give-a-start-to-this-project-because-its-motivate-me-and-also-please-follow-me-on-linkeldin-and-please-consider-me-for-any-internship-or-entry-level-data-analyst-role-i-need-a-job-or-internship-even-thought-its-a-free-or-paid-thanks-in-advance)
-
-
+6. [Recomendation](#recomendation-for-next-credit-card)
 
 #
 ### About Mitron Bank 
@@ -48,7 +44,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 
-![Page 1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/7eadc5bd-1c49-4073-8e37-b78f81375063)
+![Page 1](https://github.com/VemulapalliRakesh/Images_repo/blob/main/home%20page.png)
 
 #### Total Customers:
 
@@ -58,8 +54,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 
 #### Gender Dynamics:
-![2](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/42d10a31-5d3c-44e1-b182-1053c7a4d1a0)
-![2a](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/7e4bd794-3b90-433d-af45-93f96e61df5e)
+![2](https://github.com/VemulapalliRakesh/Images_repo/blob/main/male%20and%20feamle%20customers.png)
 
 
  * The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic.
@@ -67,7 +62,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### Age Group Profiling:
 
-![3](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/51ee3043-cdff-41da-9873-5320e4b8050b)
+![3](https://github.com/VemulapalliRakesh/Images_repo/blob/main/customer%20by%20age_group%20and%20gender.png)
 
  * The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence.
  * Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.
@@ -131,41 +126,29 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### Income, Spend, Income Utilization by City:
 
-![a6](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/49c83f50-b3ff-428e-919c-d0ae7aef1723)
+![a6](https://github.com/VemulapalliRakesh/Images_repo/blob/main/total%20spent%20by%20city.png)
 
  * Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
  * Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
 
 #### Total Spend by Payment Type:
 
-![a7](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/5f11bc4a-cb23-4a66-821e-ce79eda9250e)
+![a7](https://github.com/VemulapalliRakesh/Images_repo/blob/main/spent%20by%20payment%20type.png)
 
  * Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
  * Other payment types include UPI, debit cards, and net banking.
 
 #### Total Spend by Gender:
 
-![a8](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/efa98410-ce19-4e79-8ce9-9930690ad91c)
+![a8](https://github.com/VemulapalliRakesh/Images_repo/blob/main/spent%20by%20gender.png)
 
  * Males lead in spending with $357M, while females contribute $154M.
 
-#### Spend by Marital Status:
-
-![a9](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/431b646c-97a2-4d43-97ed-d8902f65bf43)
-
-Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
-
 #### Total Spend by Month:
 
-![a10](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/fe253527-5d96-464e-9f00-6df960d2fe6c)
+![a10](https://github.com/VemulapalliRakesh/Images_repo/blob/main/total_spent_by_month.png)
 
 September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
-
-#### Income Utilization by Gender:
-
-![a11](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/42c646e2-4e96-482b-a219-45e8808b251a)
-
-Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
 
 #### Income Utilization by Marital Status:
 
@@ -203,11 +186,6 @@ Ensure the credit card supports contactless payments and integrates with popular
 Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
 #
 
- [🔁Home](#table-of-content)
-
-#### Don't forget to give a start to this project because its motivate me and also please follow me on [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/). and Please consider me for any internship or entry level data analyst role. I need a job or internship even thought its a free or paid. Thanks in Advance.
-
-Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
 
 
 Date- 03/01/2024
